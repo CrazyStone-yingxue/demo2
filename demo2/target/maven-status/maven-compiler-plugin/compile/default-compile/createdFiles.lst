@@ -1,0 +1,15 @@
+com\stone\common\Singleton.class
+com\stone\aspect\TestAspect.class
+com\stone\common\BeanPostProcessor.class
+com\stone\bean\DemoEnum.class
+com\stone\bean\User.class
+com\stone\bean\ReturnObject.class
+com\stone\configuration\TestConfiguration.class
+com\stone\Demo2Application.class
+com\stone\bean\TestOutputCode.class
+com\stone\common\MyBeanPostProcessor.class
+com\stone\bean\OutObject.class
+com\stone\dao\UserDao.class
+com\stone\service\UserService.class
+com\stone\serviceImpl\UserServiceImpl.class
+com\stone\controller\TestController.class

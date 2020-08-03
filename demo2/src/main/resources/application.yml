@@ -1,0 +1,15 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /stone
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test
+    username: root
+    password: 123
+#mybatis
+mybatis:
+  mapper-locations: classpath*:mapper/*Mapper.xml  #定义mapper文件的位置
+  type-aliases-package: com.stone.bean  #起别名
+
